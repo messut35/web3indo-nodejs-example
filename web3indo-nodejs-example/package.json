@@ -1,0 +1,11 @@
+{
+  "name": "web3indo-nodejs-example",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Example Node.js integration for Web3indo crypto payment infrastructure API",
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.4.0",
+    "node-fetch": "^3.3.2"
+  }
+}
